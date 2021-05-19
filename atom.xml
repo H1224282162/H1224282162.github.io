@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com</id>
     <title>Gridea</title>
-    <updated>2021-05-19T01:45:15.754Z</updated>
+    <updated>2021-05-19T02:51:31.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com"/>
     <link rel="self" href="https://github.com/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[测试]]></title>
-        <id>https://github.com/post/ce-shi/</id>
-        <link href="https://github.com/post/ce-shi/">
+        <id>https://github.com/post/test/</id>
+        <link href="https://github.com/post/test/">
         </link>
         <updated>2021-05-18T08:16:50.000Z</updated>
         <content type="html"><![CDATA[<p>测试</p>
